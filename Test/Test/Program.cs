@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             //Change 1 in Branch1
+            //Additional change in branch1
             //Change 1 in Branch2
         }
     }
